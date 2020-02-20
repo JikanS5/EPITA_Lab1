@@ -1,0 +1,45 @@
+body{
+    background-color:lightsteelblue;
+    font: large;
+    padding: 4px;
+    font-size: 18;
+    text-align: center;
+}
+p{
+    font-size: 12;
+    color: darkred;
+    font-family: 'Akronim', cursive;
+    margin-left: 100px;
+}
+b{
+    font: outline;
+    color: darkslategray;
+}
+
+h1{
+    font-style: italic;
+    color:darkred;
+}
+
+#test1{
+    margin: inherit;
+}
+#test{
+    margin: inherit;
+}
+#test2{
+    background-color: yellowgreen;
+}
+
+li{
+    display:inline-block;
+    background-color: yellowgreen;
+    width: 32%;
+}
+#li1{
+    background-color: red;
+}
+
+#li2{
+    background-color: aquamarine;
+}
